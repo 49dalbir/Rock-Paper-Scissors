@@ -10,5 +10,5 @@ A simple Rock-Paper-Scissors game created using JavaScript, where the user can p
 
 ## Play the Game
 
-Play the Rock-Paper-Scissors game directly in your browser by visiting the following link: [Rock-Paper-Scissors Game](https://49dalbir.github.io/Rock-Paper-Scissors/). Select your choice and compete against the computer, with results and scores displayed after each round.
+[![Rock-Paper-Scissors Game](https://img.shields.io/badge/Website-Visit-brightgreen)](https://49dalbir.github.io/Rock-Paper-Scissors/). Select your choice and compete against the computer, with results and scores displayed after each round.
 
