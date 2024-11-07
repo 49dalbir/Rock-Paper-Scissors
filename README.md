@@ -10,4 +10,5 @@ A simple Rock-Paper-Scissors game created using JavaScript, where the user can p
 
 ## Play the Game
 
-[![Rock-Paper-Scissors Game](https://img.shields.io/badge/Website-Visit-brightgreen)](https://49dalbir.github.io/Rock-Paper-Scissors/)
+[![Play Rock-Paper-Scissors Game](https://img.shields.io/badge/Play%20Game-Rock--Paper--Scissors-brightblue?style=for-the-badge&logo=gamepad)](https://49dalbir.github.io/Rock-Paper-Scissors/)
+
