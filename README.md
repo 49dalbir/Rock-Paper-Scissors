@@ -13,16 +13,7 @@ A simple Rock-Paper-Scissors game created using JavaScript, where the user can p
 Rock-Paper-Scissors/ ├── css/ # Stylesheets for game styling ├── images/ # Game-related images ├── js/ # JavaScript for game logic └── index.html # Main HTML file
 
 
-## Setup Instructions
+## Play the Game
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/49dalbir/Rock-Paper-Scissors.git
+Play the Rock-Paper-Scissors game directly in your browser by visiting the following link: [Rock-Paper-Scissors Game](https://49dalbir.github.io/Rock-Paper-Scissors/). Select your choice and compete against the computer, with results and scores displayed after each round.
 
-    Open in Browser: Open index.html in a web browser to play the game.
-
-Play the Game
-
-Try out the game here.
-
-Enjoy a quick game of Rock-Paper-Scissors against the computer, built with basic web technologies.
